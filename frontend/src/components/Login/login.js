@@ -86,7 +86,7 @@ export default function Login() {
 
           <img className={Styles.image} src="images/splash.svg" />
         </div>
-        <div>
+        <div className={Styles.formContain}>
           <Container
             component="main"
             maxWidth="xs"
