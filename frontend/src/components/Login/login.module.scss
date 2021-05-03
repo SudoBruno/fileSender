@@ -1,0 +1,24 @@
+.contain {
+  display: flex;
+  flex-direction: row;
+  flex: 1;
+  .containImage {
+    margin-right: 12rem;
+    margin-left: 10rem;
+
+    img {
+      width: 30rem;
+
+      margin-top: 3rem;
+    }
+
+    p {
+      font-family: Lexend, sans-serif;
+      color: #3f53b5;
+      font-size: 1.3rem;
+      font-weight: 350;
+      margin-bottom: 0;
+      margin-top: 4rem;
+    }
+  }
+}
