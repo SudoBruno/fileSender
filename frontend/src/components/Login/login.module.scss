@@ -9,20 +9,21 @@
   .containImage {
     grid-column-start: 1;
     grid-column-end: 2;
+
     img {
       width: 30rem;
-      margin-top: 3rem;
       margin-left: 9rem;
     }
 
-    p {
-      font-family: Lexend, sans-serif;
-      color: #3f53b5;
-      font-size: 1.3rem;
-      font-weight: 350;
-      margin-left: 4rem;
-      margin-bottom: 0;
-      margin-top: 8rem;
+    h1 {
+      font-family: Play, sans-serif;
+      color: #383434;
+      text-decoration: underline;
+      font-size: 4rem;
+      font-weight: 700;
+      margin-left: 15rem;
+      margin-bottom: 1rem;
+      margin-top: 4rem;
     }
   }
 
